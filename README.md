@@ -1,8 +1,7 @@
 <p align='center' >
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=Black&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Pale'
 height='170' width='170'
-/>
-</p>
+/></p>
 
 ## Hi there and welcome to my GitHub profile 👋
 
@@ -21,9 +20,9 @@ height='170' width='170'
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 
-<img alt="JavaScript" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 
-<img alt="JavaScript" src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge" />
+<img alt="C++s" src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge" />
 
 </p>
 
@@ -36,6 +35,7 @@ height='170' width='170'
 <!-- <p>&nbsp;</p> -->
 <p>
 <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+
 <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
@@ -51,7 +51,7 @@ height='170' width='170'
 
 <!-- <p>&nbsp;</p> -->
 <p>
-<img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="MySql" src="https://img.shields.io/badge/MySql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /><img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
 <img alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind Css-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
 
