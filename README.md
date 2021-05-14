@@ -60,4 +60,4 @@ height='170' width='170'
 </p>
 <p>&nbsp;</p>
 
-<code>I am also constantly working on some cool projects </code>
+<blockquote>And also constantly working on some new cool projects </blockquote>
