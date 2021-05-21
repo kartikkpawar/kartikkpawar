@@ -7,7 +7,7 @@ height='170' width='170'
 
 <p>&nbsp;</p>
 
-<p>My name is Kartik Pawar and I am a Fullstack Developer from India. I build Lot of things, and some of them you may even find intresting. 🤞</p>
+<p>My name is Kartik Pawar and I am a Fullstack Developer from India. I build Lot of things, and some of them you may even find intresting.🤞</p>
 
 ---
 
