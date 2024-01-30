@@ -6,7 +6,7 @@ Turning illustration into working prototype
 
 As a full-stack web developer with a focus on front-end development, I have a strong foundation in technologies such as React JS, JavaScript, HTML, CSS, and Node.js. I am skilled in using these technologies to create dynamic, interactive user experiences for web applications. I am also familiar with express, a popular web application framework for Node.js that helps with routing, middleware, and other backend functionality. With my expertise in both front-end and back-end development, I am well-equipped to design and build complete web applications from start to finish. I have a passion for staying up-to-date with the latest trends and best practices in web development, and I am always looking for ways to improve and expand my skillset.
 
-*   🖥️  See my portfolio at [My Portfolio](https://pawarkartikkdev.web.app/)
+*   🖥️  See my portfolio at [My Portfolio](https://kartikkpawar.vercel.app/)
 *   🧠  I'm learning AWS ☁️
 ### Skills 
 <p align="left">
