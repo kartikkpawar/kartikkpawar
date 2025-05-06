@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Pawar</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **GenAi amd GoLang**
+- 🌱 I’m currently learning **GenAi and GoLang**
 
 - 👨‍💻 All of my projects are available at [https://kartikpawar.dev/](https://kartikpawar.dev/)
 
